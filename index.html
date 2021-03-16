@@ -50,28 +50,47 @@
             </div>
         </div>
         <h3>Post Mortem</h3>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo officia tempora et repudiandae laboriosam
-            fugit voluptates officiis modi dolores exercitationem quas eos iure possimus placeat, velit nulla. Aliquam,
-            nemo facilis!:
-        </p>
         <ul>
-            <li>Point 1
+            <li>Levels
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, ipsum quidem eveniet sequi quia
-                    laudantium. Est ipsa dolores molestiae, quasi corporis hic laborum rem atque accusamus sed ab velit
-                    delectus.
+                    Our game currently supports only one level so first thing to improve or work upon would adding more
+                    levels. Also, the level right now is fairly simple to play, making it more challenging and also more
+                    engaging could be fun.
                 </p>
-            <li>Point 2
+            <li>Main Menu and Pause Screen
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, ipsum quidem eveniet sequi quia
-                    laudantium. Est ipsa dolores molestiae, quasi corporis hic laborum rem atque accusamus sed ab velit
-                    delectus.
+                    When a user starts up the game, they are taken directly into it without any menu for navigation. A
+                    Main menu to start, read instructions, select levels and quit the game needs to be implemented.
+                    Also, we might have to add a Pause functionality and a Pause screen to the game to improve the user
+                    experience.
                 </p>
-            <li>Point 3
+            <li>Multiple Language Support
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores, ipsum quidem eveniet sequi quia
-                    laudantium. Est ipsa dolores molestiae, quasi corporis hic laborum rem atque accusamus sed ab velit
-                    delectus.
+                    The game currently supports English to display text on screen. Additional language support can be
+                    added.
+                </p>
+            <li>Collisions
+                <p>
+                    Collision logic in the game is simple and does most of the job. But when the player can see some
+                    jagged movement while colliding with the tiles. A much robust collision detection and response
+                    physics needs to added to make the player movement smooth and seamless.
+                </p>
+            <li>Enemy AI
+                <p>
+                    Enemy AI in our game has a simple behavior - patrol a given line from one edge to the other. This
+                    can be improved upon by making the AI pursue the player in a given range or zone.
+                </p>
+            <li>Fighting back
+                <p>
+                    The player cannot attack or cause damage to the enemies present in the game. We want that to change:
+                    giving the player a weapon such as a sword or making the player eliminate enemies by jumping on them
+                    in Mario fashion can be be worked upon.
+                </p>
+            <li>Different Tile properties
+                <p>
+                    All the tiles in the game have a simple physics component which checks for collisions and performs
+                    the necessary collision response. We would like to add custom properties to certain tiles such as
+                    making them more slippery, dishing out damage when walked upon etc.
                 </p>
         </ul>
         <h3>Documentation</h3>
