@@ -111,6 +111,30 @@
         <h3>Documentation</h3>
         <p>Use this <a href="./documentation/index.html">link</a> to go to the documentation page.</p>
 
+        <h3>Instructions: using the Tile Editor</h3>
+        <p>The tile editor has two options PNG and BMP
+            For PNG, the best results are achieved when the tiles are provided as individual png tiles and they are
+            rendered at their original resoultion. The tile editor
+            can scroll infinitely so this the dimensions are not an issue.
+            In case of PNG, the names of the tiles should be numbers in increasing order like 0.png, 1.png, etc. You can
+            see such a sample in Assets folder.
+            To create a tile map, you simply need to enter these names seperated by a single whitespace. If the format
+            is incorrect tiles will not be render. You can click the "Update Config" button to see if what you have
+            entered is valid or not.
+
+            Loading and Saving tile maps.
+            All tile maps are loaded from and saved to Assets/TileMaps folder. And the names of the file have to be
+            relative to that. For instance, a sample map has been provided which was created using assets available in
+            the folder - sample1.txt.
+            To see how this map looks, you simply need to click "Load Map" and type sample1.txt in the file name. The
+            map should be loaded.
+            You can now use arrow keys to navigate around.
+
+            BMP works in a similar way in terms of loading and saving, the only difference is that tile editor only
+            supports equal sized tiles and these tiles should be from a single bmp file located in
+            Assets/Tiles/bmp/Tiles.bmp. In this case also you will enter numbers, for tiles but numbers here represent
+            the individual tiles that are generated when you slice the bmp image into small rectangles of given width
+            and height. You will be asked to enter this information if you select bmp. </p>
     </main>
 </body>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
