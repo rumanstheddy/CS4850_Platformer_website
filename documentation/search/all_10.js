@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['reducelives_198',['ReduceLives',['../classPlayerObject.html#a51b5fe69465b579b8db4b9509f451e36',1,'PlayerObject']]],
+  ['removecomponent_199',['RemoveComponent',['../classGameObject.html#a59ad7db142d3b3630b7507ebbe01edd5',1,'GameObject']]],
+  ['removecomponenttype_200',['RemoveComponentType',['../classGameObject.html#a215bf901b467db5c38c22d6384f07fb4',1,'GameObject']]],
+  ['render_201',['Render',['../classAIComponent.html#ae714ed92aee3024b09fe4b42e7a17455',1,'AIComponent::Render()'],['../classCameraComponent.html#a5a48f0cf3c2179a01ae0decdd4803003',1,'CameraComponent::Render()'],['../classColliderComponent.html#a9401f0d5134aaa434489afcd9177ad76',1,'ColliderComponent::Render()'],['../classComponent.html#af6a2cca21e381bc248a36259c0faaf21',1,'Component::Render()'],['../classControllerComponent.html#a59a44438a6f255cba70c06b5585725db',1,'ControllerComponent::Render()'],['../classEnemyObject.html#ab95d5d8ba6308200affbf77f5fea89f5',1,'EnemyObject::Render()'],['../classEngine.html#acde70aed0043e2e2091d0bb6cce8e3c1',1,'Engine::Render()'],['../classGameObject.html#ab91cf838eb1a0aad70a489439cfbf215',1,'GameObject::Render()'],['../classGameResultComponent.html#a08ab079b4a419b9fbac5cbba4b967835',1,'GameResultComponent::Render()'],['../classLivesComponent.html#a1af6a690be24d2972bcdef120f0c9b34',1,'LivesComponent::Render()'],['../classPlayerCameraAwareObject.html#a01996d2e966833976a688b839b859281',1,'PlayerCameraAwareObject::Render()'],['../classPlayerObject.html#a47ec3b9c9694fb4f620af4f68ab97725',1,'PlayerObject::Render()'],['../classScoreComponent.html#a0c12de971508b7061dd9e3befc0641fe',1,'ScoreComponent::Render()'],['../classSpriteComponent.html#ae0fdca26ae5beb6602cce7edca97c0a4',1,'SpriteComponent::Render()'],['../classTileMapComponent.html#a4bec474c9ac5ab754d00c292cc1d6c23',1,'TileMapComponent::Render()'],['../classTileMapObject.html#a06690b0f4500e27fabceae7d79c5c8a9',1,'TileMapObject::Render()'],['../classTransformComponent.html#a78eedf13d70917145f2cb613509c14c1',1,'TransformComponent::Render()'],['../classSprite.html#a2ccd817148aa987a20d7c3e04745fb9a',1,'Sprite::Render()'],['../classSpriteEditorApp.html#a38973c577dbdf458094331cb2d7c2aa8',1,'SpriteEditorApp::Render()']]],
+  ['renderclear_202',['RenderClear',['../classGraphicsEngineRenderer.html#aafba41747092d1b19e671d70f8421b22',1,'GraphicsEngineRenderer']]],
+  ['renderpresent_203',['RenderPresent',['../classGraphicsEngineRenderer.html#add023e7b5c97b9c61f6656c6ecf889bb',1,'GraphicsEngineRenderer']]],
+  ['rendertiles_204',['RenderTiles',['../classTileRenderer.html#a98cdfaf75cd5cca625b27df25af29b22',1,'TileRenderer']]],
+  ['resetgame_205',['ResetGame',['../classEngine.html#a88aab76d8cb51535d29df63fa38615d9',1,'Engine::ResetGame()'],['../classGameManager.html#a5de648e453a879729920952294f5f7da',1,'GameManager::ResetGame()']]],
+  ['resetjumpingstatus_206',['ResetJumpingStatus',['../classAIComponent.html#aa2536f32420b0a189cfcd682b34ef05b',1,'AIComponent::ResetJumpingStatus()'],['../classControllerComponent.html#ac4be884848453f9cc161b73f55327e1e',1,'ControllerComponent::ResetJumpingStatus()']]],
+  ['resetlives_207',['ResetLives',['../classPlayerObject.html#a44aa6ce661dd7a083e2c776b98fb3c7a',1,'PlayerObject']]],
+  ['resetscore_208',['ResetScore',['../classScoreComponent.html#a8a4a30dda88f49953d2a62fceaa23db8',1,'ScoreComponent']]],
+  ['resourcemanager_209',['ResourceManager',['../classResourceManager.html',1,'']]],
+  ['resourcemanager_2ecpp_210',['ResourceManager.cpp',['../ResourceManager_8cpp.html',1,'']]],
+  ['resourcemanager_2ehpp_211',['ResourceManager.hpp',['../ResourceManager_8hpp.html',1,'']]],
+  ['restart_212',['restart',['../Engine_8cpp.html#a8649fdfafe4f3ed5fa96bb5261379247',1,'Engine.cpp']]],
+  ['revertjumping_213',['RevertJumping',['../classAIComponent.html#a9277b6b27267482d3d33dab2bb183b25',1,'AIComponent::RevertJumping()'],['../classControllerComponent.html#a57de9f345c3a6039218adc2d2fbe0310',1,'ControllerComponent::RevertJumping()']]],
+  ['right_214',['RIGHT',['../namespaceTinyMath.html#ad88d94f044d3b2d77b9b459fb4a5879fa21507b40c80068eda19865706fdc2403',1,'TinyMath']]],
+  ['run_215',['RUN',['../GameObject_8hpp.html#a250c68ac79a20d9e2ccee603880a4e39a439c688a4e9ed31638d5922a50680a8e',1,'GameObject.hpp']]]
+];

@@ -1,0 +1,10 @@
+<map id="include/platformer/GameManager.hpp" name="include/platformer/GameManager.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="373,5,523,47"/>
+<area shape="rect" id="node2" href="$Engine_8hpp.html" title=" " alt="" coords="266,95,409,136"/>
+<area shape="rect" id="node5" href="$GameResultComponent_8hpp.html" title=" " alt="" coords="455,95,665,136"/>
+<area shape="rect" id="node3" href="$Engine_8cpp.html" title=" " alt="" coords="243,191,432,218"/>
+<area shape="rect" id="node4" href="$platformer_8cpp.html" title=" " alt="" coords="5,191,219,218"/>
+<area shape="rect" id="node6" href="$GameResultComponent_8cpp.html" title=" " alt="" coords="456,184,664,225"/>
+<area shape="rect" id="node7" href="$CheckpointObject_8cpp.html" title=" " alt="" coords="688,184,891,225"/>
+<area shape="rect" id="node8" href="$PlayerObject_8cpp.html" title=" " alt="" coords="915,184,1117,225"/>
+</map>

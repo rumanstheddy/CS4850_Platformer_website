@@ -1,0 +1,5 @@
+<map id="PlayerCameraAwareObject" name="PlayerCameraAwareObject">
+<area shape="rect" id="node1" title="A game object class that is aware of the camera that is following the main player." alt="" coords="33,80,230,107"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="This is the base class for all game objects. This class can be used to instantiate an object and addi..." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node3" href="$classBoundingBoxAware.html" title="This class defines the collision boundary to a collidable game object." alt="" coords="133,5,282,32"/>
+</map>

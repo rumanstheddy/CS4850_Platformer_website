@@ -1,0 +1,5 @@
+<map id="ControllerComponent" name="ControllerComponent">
+<area shape="rect" id="node1" title="This class represents the controller component that will allow user to control the game object to whi..." alt="" coords="5,80,167,107"/>
+<area shape="rect" id="node3" href="$classAIComponent.html" title="This class represents the AI component that controls the movement of enemy objects." alt="" coords="31,155,141,181"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="This class represents the base Component class." alt="" coords="37,5,135,32"/>
+</map>

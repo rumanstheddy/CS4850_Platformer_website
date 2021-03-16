@@ -1,0 +1,4 @@
+<map id="CameraComponent" name="CameraComponent">
+<area shape="rect" id="node1" title="This class represents the Camera component to render only those game elements in the user camera view..." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="This class represents the base Component class." alt="" coords="31,5,128,32"/>
+</map>

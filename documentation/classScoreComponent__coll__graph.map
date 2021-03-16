@@ -1,0 +1,5 @@
+<map id="ScoreComponent" name="ScoreComponent">
+<area shape="rect" id="node1" title="This class represents a score component which when attached to a game object is able to track its sco..." alt="" coords="5,171,139,197"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="This class represents the base Component class." alt="" coords="23,95,121,121"/>
+<area shape="rect" id="node3" href="$classGameObject.html" title="This is the base class for all game objects. This class can be used to instantiate an object and addi..." alt="" coords="21,5,123,32"/>
+</map>

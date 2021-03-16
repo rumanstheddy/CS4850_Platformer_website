@@ -1,0 +1,6 @@
+<map id="include/platformer/TileMapObject.hpp" name="include/platformer/TileMapObject.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="249,5,397,47"/>
+<area shape="rect" id="node2" href="$TileMapComponent_8cpp.html" title=" " alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$Engine_8cpp.html" title=" " alt="" coords="229,102,418,129"/>
+<area shape="rect" id="node4" href="$TileMapObject_8cpp.html" title=" " alt="" coords="442,95,645,136"/>
+</map>

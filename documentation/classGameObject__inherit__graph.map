@@ -1,0 +1,8 @@
+<map id="GameObject" name="GameObject">
+<area shape="rect" id="node1" title="This is the base class for all game objects. This class can be used to instantiate an object and addi..." alt="" coords="274,5,377,32"/>
+<area shape="rect" id="node2" href="$classEnemyObject.html" title="This class represents an enemy object." alt="" coords="5,80,115,107"/>
+<area shape="rect" id="node3" href="$classPlayerCameraAwareObject.html" title="A game object class that is aware of the camera that is following the main player." alt="" coords="139,80,336,107"/>
+<area shape="rect" id="node5" href="$classPlayerObject.html" title="This class represents a special game object that represents the main player in the game." alt="" coords="361,80,466,107"/>
+<area shape="rect" id="node6" href="$classTileMapObject.html" title="Special game object representing the tile map." alt="" coords="490,80,606,107"/>
+<area shape="rect" id="node4" href="$classCheckpointObject.html" title="A special kind of PlayerCameraAwareObject that is tailored to act as checkpoints." alt="" coords="169,155,306,181"/>
+</map>

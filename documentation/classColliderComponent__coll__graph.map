@@ -1,0 +1,6 @@
+<map id="ColliderComponent" name="ColliderComponent">
+<area shape="rect" id="node1" title="This class represents the collider component that collidable objects incorporate." alt="" coords="57,171,203,197"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="This class represents the base Component class." alt="" coords="8,95,105,121"/>
+<area shape="rect" id="node3" href="$classGameObject.html" title="This is the base class for all game objects. This class can be used to instantiate an object and addi..." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node4" href="$classBoundingBoxAware.html" title="This class defines the collision boundary to a collidable game object." alt="" coords="130,95,279,121"/>
+</map>

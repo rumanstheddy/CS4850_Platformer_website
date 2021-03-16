@@ -1,0 +1,9 @@
+<map id="include/platformer/SpriteComponent.hpp" name="include/platformer/SpriteComponent.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="73,5,239,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,64,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="88,95,155,121"/>
+<area shape="rect" id="node4" href="$Component_8hpp.html" title=" " alt="" coords="180,244,305,271"/>
+<area shape="rect" id="node6" href="$TransformComponent_8hpp.html" title=" " alt="" coords="230,95,421,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="213,319,272,345"/>
+<area shape="rect" id="node7" href="$ControllerComponent_8hpp.html" title=" " alt="" coords="280,169,469,196"/>
+</map>

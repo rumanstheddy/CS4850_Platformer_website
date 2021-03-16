@@ -1,0 +1,5 @@
+<map id="TileMapComponent" name="TileMapComponent">
+<area shape="rect" id="node1" title="This class represents the Tile Map component which controls how the tiles are displayed." alt="" coords="5,171,155,197"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="This class represents the base Component class." alt="" coords="31,95,129,121"/>
+<area shape="rect" id="node3" href="$classGameObject.html" title="This is the base class for all game objects. This class can be used to instantiate an object and addi..." alt="" coords="29,5,131,32"/>
+</map>

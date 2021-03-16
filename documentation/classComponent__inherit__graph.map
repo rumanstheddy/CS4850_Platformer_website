@@ -1,0 +1,13 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="This class represents the base Component class." alt="" coords="5,208,103,235"/>
+<area shape="rect" id="node2" href="$classCameraComponent.html" title="This class represents the Camera component to render only those game elements in the user camera view..." alt="" coords="165,5,313,32"/>
+<area shape="rect" id="node3" href="$classColliderComponent.html" title="This class represents the collider component that collidable objects incorporate." alt="" coords="166,56,313,83"/>
+<area shape="rect" id="node4" href="$classControllerComponent.html" title="This class represents the controller component that will allow user to control the game object to whi..." alt="" coords="159,107,320,133"/>
+<area shape="rect" id="node6" href="$classGameResultComponent.html" title="This class represents a GameResultComponent. This must be attached to the game object that is respons..." alt="" coords="151,157,328,184"/>
+<area shape="rect" id="node7" href="$classLivesComponent.html" title="This class represents the Lives component that tracks the number of remaining lives for the character..." alt="" coords="174,208,305,235"/>
+<area shape="rect" id="node8" href="$classScoreComponent.html" title="This class represents a score component which when attached to a game object is able to track its sco..." alt="" coords="173,259,306,285"/>
+<area shape="rect" id="node9" href="$classSpriteComponent.html" title="A small class to demonstrate loading sprites. SpriteComponent sheets are often used for loading chara..." alt="" coords="172,309,307,336"/>
+<area shape="rect" id="node10" href="$classTileMapComponent.html" title="This class represents the Tile Map component which controls how the tiles are displayed." alt="" coords="165,360,314,387"/>
+<area shape="rect" id="node11" href="$classTransformComponent.html" title="This class represents a transform component that defines a game object&#39;s position in the world." alt="" coords="158,411,321,437"/>
+<area shape="rect" id="node5" href="$classAIComponent.html" title="This class represents the AI component that controls the movement of enemy objects." alt="" coords="376,107,487,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SpriteComponent" name="SpriteComponent">
+<area shape="rect" id="node1" title="A small class to demonstrate loading sprites. SpriteComponent sheets are often used for loading chara..." alt="" coords="5,171,140,197"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="This class represents the base Component class." alt="" coords="24,95,121,121"/>
+<area shape="rect" id="node3" href="$classGameObject.html" title="This is the base class for all game objects. This class can be used to instantiate an object and addi..." alt="" coords="21,5,124,32"/>
+</map>

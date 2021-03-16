@@ -1,0 +1,33 @@
+<map id="include/platformer/MessageException.hpp" name="include/platformer/MessageException.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1742,5,1918,47"/>
+<area shape="rect" id="node2" href="$Component_8cpp.html" title=" " alt="" coords="1491,102,1711,129"/>
+<area shape="rect" id="node3" href="$MessageException_8cpp.html" title=" " alt="" coords="1735,95,1925,136"/>
+<area shape="rect" id="node4" href="$GameObject_8hpp.html" title=" " alt="" coords="1949,95,2092,136"/>
+<area shape="rect" id="node5" href="$CameraComponent_8cpp.html" title=" " alt="" coords="5,184,204,225"/>
+<area shape="rect" id="node6" href="$ColliderComponent_8cpp.html" title=" " alt="" coords="228,184,427,225"/>
+<area shape="rect" id="node7" href="$SpriteComponent_8cpp.html" title=" " alt="" coords="451,184,649,225"/>
+<area shape="rect" id="node8" href="$TileMapComponent_8cpp.html" title=" " alt="" coords="1111,541,1309,583"/>
+<area shape="rect" id="node9" href="$TransformComponent_8cpp.html" title=" " alt="" coords="2939,184,3137,225"/>
+<area shape="rect" id="node10" href="$Engine_8cpp.html" title=" " alt="" coords="1958,549,2147,575"/>
+<area shape="rect" id="node11" href="$GameObject_8cpp.html" title=" " alt="" coords="3162,191,3389,218"/>
+<area shape="rect" id="node12" href="$AIComponent_8hpp.html" title=" " alt="" coords="2393,184,2536,225"/>
+<area shape="rect" id="node14" href="$EnemyObject_8hpp.html" title=" " alt="" coords="2311,273,2453,315"/>
+<area shape="rect" id="node16" href="$PlayerCameraAwareObject_8hpp.html" title=" " alt="" coords="1763,184,1993,225"/>
+<area shape="rect" id="node20" href="$TinyMath_8hpp.html" title="This is a header only library that contains methods that help in collision detection &amp; processing." alt="" coords="2092,184,2235,225"/>
+<area shape="rect" id="node24" href="$TileMapObject_8hpp.html" title=" " alt="" coords="1248,452,1396,493"/>
+<area shape="rect" id="node26" href="$Engine_8hpp.html" title=" " alt="" coords="2772,184,2915,225"/>
+<area shape="rect" id="node28" href="$PlayerObject_8hpp.html" title=" " alt="" coords="1367,273,1509,315"/>
+<area shape="rect" id="node13" href="$AIComponent_8cpp.html" title=" " alt="" coords="2528,273,2727,315"/>
+<area shape="rect" id="node15" href="$EnemyObject_8cpp.html" title=" " alt="" coords="2261,363,2463,404"/>
+<area shape="rect" id="node17" href="$PlayerCameraAwareObject_8cpp.html" title=" " alt="" coords="1840,273,2068,315"/>
+<area shape="rect" id="node18" href="$CheckpointObject_8hpp.html" title=" " alt="" coords="1595,273,1764,315"/>
+<area shape="rect" id="node19" href="$CheckpointObject_8cpp.html" title=" " alt="" coords="1557,363,1759,404"/>
+<area shape="rect" id="node21" href="$TileData_8hpp.html" title=" " alt="" coords="2092,273,2235,315"/>
+<area shape="rect" id="node22" href="$TileData_8cpp.html" title=" " alt="" coords="2090,363,2237,404"/>
+<area shape="rect" id="node23" href="$TileMapComponent_8hpp.html" title=" " alt="" coords="1783,363,1965,404"/>
+<area shape="rect" id="node25" href="$TileMapObject_8cpp.html" title=" " alt="" coords="1334,541,1537,583"/>
+<area shape="rect" id="node27" href="$platformer_8cpp.html" title=" " alt="" coords="2851,281,3065,307"/>
+<area shape="rect" id="node29" href="$GameResultComponent_8cpp.html" title=" " alt="" coords="1274,363,1482,404"/>
+<area shape="rect" id="node30" href="$LivesComponent_8cpp.html" title=" " alt="" coords="773,363,972,404"/>
+<area shape="rect" id="node31" href="$PlayerObject_8cpp.html" title=" " alt="" coords="997,363,1199,404"/>
+</map>

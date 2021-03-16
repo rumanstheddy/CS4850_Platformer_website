@@ -1,0 +1,4 @@
+<map id="TransformComponent" name="TransformComponent">
+<area shape="rect" id="node1" title="This class represents a transform component that defines a game object&#39;s position in the world." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node2" href="$classComponent.html" title="This class represents the base Component class." alt="" coords="38,5,135,32"/>
+</map>

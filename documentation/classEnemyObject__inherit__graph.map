@@ -1,0 +1,5 @@
+<map id="EnemyObject" name="EnemyObject">
+<area shape="rect" id="node1" title="This class represents an enemy object." alt="" coords="77,80,186,107"/>
+<area shape="rect" id="node2" href="$classGameObject.html" title="This is the base class for all game objects. This class can be used to instantiate an object and addi..." alt="" coords="5,5,108,32"/>
+<area shape="rect" id="node3" href="$classBoundingBoxAware.html" title="This class defines the collision boundary to a collidable game object." alt="" coords="133,5,282,32"/>
+</map>

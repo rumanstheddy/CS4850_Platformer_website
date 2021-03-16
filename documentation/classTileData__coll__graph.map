@@ -1,0 +1,4 @@
+<map id="TileData" name="TileData">
+<area shape="rect" id="node1" title="This class represents meta&#45;data for an individual tile that gets rendered." alt="" coords="41,80,119,107"/>
+<area shape="rect" id="node2" href="$classBoundingBoxAware.html" title="This class defines the collision boundary to a collidable game object." alt="" coords="5,5,155,32"/>
+</map>

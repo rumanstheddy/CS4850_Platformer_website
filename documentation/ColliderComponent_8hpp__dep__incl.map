@@ -1,0 +1,14 @@
+<map id="include/platformer/ColliderComponent.hpp" name="include/platformer/ColliderComponent.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="409,5,587,47"/>
+<area shape="rect" id="node2" href="$ColliderComponent_8cpp.html" title=" " alt="" coords="5,95,204,136"/>
+<area shape="rect" id="node3" href="$Engine_8cpp.html" title=" " alt="" coords="286,370,475,397"/>
+<area shape="rect" id="node4" href="$EnemyObject_8cpp.html" title=" " alt="" coords="329,184,531,225"/>
+<area shape="rect" id="node5" href="$PlayerCameraAwareObject_8cpp.html" title=" " alt="" coords="983,95,1211,136"/>
+<area shape="rect" id="node6" href="$TileMapObject_8cpp.html" title=" " alt="" coords="810,363,1013,404"/>
+<area shape="rect" id="node7" href="$EnemyObject_8hpp.html" title=" " alt="" coords="317,95,460,136"/>
+<area shape="rect" id="node8" href="$TileData_8hpp.html" title=" " alt="" coords="575,95,717,136"/>
+<area shape="rect" id="node9" href="$TileData_8cpp.html" title=" " alt="" coords="761,184,907,225"/>
+<area shape="rect" id="node10" href="$TileMapComponent_8hpp.html" title=" " alt="" coords="555,184,737,225"/>
+<area shape="rect" id="node11" href="$TileMapComponent_8cpp.html" title=" " alt="" coords="552,363,751,404"/>
+<area shape="rect" id="node12" href="$TileMapObject_8hpp.html" title=" " alt="" coords="516,273,664,315"/>
+</map>

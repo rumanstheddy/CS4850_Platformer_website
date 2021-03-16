@@ -1,0 +1,13 @@
+<map id="include/platformer/GameObject.hpp" name="include/platformer/GameObject.hpp">
+<area shape="rect" id="node1" title=" " alt="" coords="231,5,374,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,83,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="107,95,178,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="202,95,265,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="324,393,383,420"/>
+<area shape="rect" id="node6" href="$Component_8hpp.html" title=" " alt="" coords="341,319,467,345"/>
+<area shape="rect" id="node7" href="$CameraComponent_8hpp.html" title=" " alt="" coords="391,95,567,121"/>
+<area shape="rect" id="node10" href="$MessageException_8hpp.html" title=" " alt="" coords="597,95,769,121"/>
+<area shape="rect" id="node8" href="$TransformComponent_8hpp.html" title=" " alt="" coords="442,169,633,196"/>
+<area shape="rect" id="node9" href="$ControllerComponent_8hpp.html" title=" " alt="" coords="492,244,681,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="657,169,716,196"/>
+</map>

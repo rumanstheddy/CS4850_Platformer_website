@@ -1,0 +1,8 @@
+<map id="BoundingBoxAware" name="BoundingBoxAware">
+<area shape="rect" id="node1" title="This class defines the collision boundary to a collidable game object." alt="" coords="244,5,393,32"/>
+<area shape="rect" id="node2" href="$classColliderComponent.html" title="This class represents the collider component that collidable objects incorporate." alt="" coords="5,80,152,107"/>
+<area shape="rect" id="node3" href="$classEnemyObject.html" title="This class represents an enemy object." alt="" coords="176,80,285,107"/>
+<area shape="rect" id="node4" href="$classPlayerCameraAwareObject.html" title="A game object class that is aware of the camera that is following the main player." alt="" coords="309,80,507,107"/>
+<area shape="rect" id="node6" href="$classTileData.html" title="This class represents meta&#45;data for an individual tile that gets rendered." alt="" coords="531,80,608,107"/>
+<area shape="rect" id="node5" href="$classCheckpointObject.html" title="A special kind of PlayerCameraAwareObject that is tailored to act as checkpoints." alt="" coords="339,155,477,181"/>
+</map>
